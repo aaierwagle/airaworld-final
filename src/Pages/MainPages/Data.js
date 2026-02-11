@@ -282,7 +282,7 @@ export const CEO = [
     post: "Co-founder",
     introduction: "",
     Image: "/AdminTeam/Yashoda.jpeg",
-    Qualification: "Advisor (Health Informatics/ Digital Health) Master in Health Informatics",
+    Qualification: "Advisor (Health Informatics/ Digital Health) , Master in Health Informatics",
   },
 ];
 // Sample data for admin members (Advisory Team)
