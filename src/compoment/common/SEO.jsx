@@ -5,7 +5,7 @@ const SEO = ({ title, description, keywords, image, url }) => {
     const siteTitle = "Axon Infotech Research Academy (AIRA)";
     const defaultDescription = "Axon Infotech Research Academy (AIRA) is a leading research institution in Nepal, specializing in health informatics, data science, and public health research.";
     const defaultKeywords = "Research, Nepal, Health Informatics, Data Science, Public Health, AI in Healthcare, AIRA";
-    const defaultImage = "/Logo.jpeg"; // Ensure this image exists in public folder
+    const defaultImage = "/social-preview.png"; // Ensure this image exists in public folder
     const siteUrl = "https://airaworld.org";
 
     const fullTitle = title ? `${title} | ${siteTitle}` : siteTitle;
