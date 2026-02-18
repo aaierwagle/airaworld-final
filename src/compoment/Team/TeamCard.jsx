@@ -34,7 +34,7 @@ const TeamCard = ({ name, role, qualification, image, bio, socialLinks, delay = 
                     image={image || "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png"}
                     alt={name}
                     sx={{
-                        height: 300,
+                        height: 400,
                         objectFit: 'cover',
                         objectPosition: 'top'
                     }}
@@ -58,7 +58,7 @@ const TeamCard = ({ name, role, qualification, image, bio, socialLinks, delay = 
 
                     {bio && (
                         <Typography variant="body2" color="text.secondary" paragraph sx={{ mb: 'auto' }}>
-                            {bio.length > 150 ? `${bio.substring(0, 150)}...` : bio}
+                            {bio.length > 150 ? `${bio.substring(0, 500)}` : bio}
                         </Typography>
                     )}
 

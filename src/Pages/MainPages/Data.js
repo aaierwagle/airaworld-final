@@ -294,7 +294,7 @@ export const AdminMembers = [
     introduction:
       "Mr. Dip Bahadur Singh completed his Diploma in General Medicine from All Nepal College of Medical Sciences in 2012. He has a Bachelor of Public Health from Asian College of Advanced Studies. He is currently pursuing a Master's in Health Informatics at Kathmandu University.",
     photoUrl: "/AdminTeam/Advisor DB Singh.jpg", // Placeholder URL
-    Qualification: "Master in Health Informatics (Pursuing)",
+    Qualification: "Advisor (Health Informatics/ Digital Health) , Master in Health Informatics",
   },
   {
     id: 2,
@@ -312,7 +312,7 @@ export const AdminMembers = [
     introduction:
       "Mr. Subash Dawadi is pursuing a Master's in Health Informatics at Kathmandu University. He has a background in public health and health informatics, with experience in roles such as Health Assistant and District Program Officer.",
     photoUrl: "/AdminTeam/Advisor Subash Dawadi.jpeg", // Placeholder URL
-    Qualification: "Master in Health Informatics (Pursuing)",
+    Qualification: "Master in Health Informatics",
   },
   {
     id: 3,
