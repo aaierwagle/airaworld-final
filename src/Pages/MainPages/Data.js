@@ -218,16 +218,6 @@ export const TeamMembers = [
     Image: "/Research/9. Dr Seejan Rawal.jpg",
   },
   {
-    id: 10,
-    Name: "Dr. Harihar Khanal",
-    Post: "Consultant",
-    Qualification: "MDGP",
-    "Affiliated Organization": "Helping Hands Community Hospital",
-    Brief:
-      "Dr. Harihar Khanal is a medical professional with expertise in General Practice and Emergency Medicine. He completed his MBBS and MDGP in Nepal and is known for his contributions to emergency medicine.",
-    Image: "/Research/",
-  },
-  {
     id: 11,
     Name: "Dr. Bhisma Pokharel",
     Post: "Consultant",
@@ -272,7 +262,7 @@ export const TeamMembers = [
   {
     id: 4,
     Name: "Mrs. Yashoda Dangi",
-    Post: "Former Reacher Officer",
+    Post: "Former Research Associate",
      Qualification: "Bachelor of Public Health (BPH)",
     Image: "/AdminTeam/Yashoda.jpeg",
     Brief: "Yashoda Dangi is an experienced public health professional with a strong interest in research and innovation. She has worked across diverse health programs to improve population health outcomes.",
@@ -287,7 +277,7 @@ export const CEO = [
   {
     id: 2,
     name: "Mr. Sudarsan Dahal",
-    post: "Hr and Program Head",
+    post: "Operation Head",
     introduction:
       "Sudarsan Dahal is an accomplished professional with over 12 years of extensive experience in the Development sector in Nepal. He specializes in project implementation, management, and administration, with expertise in public-private partnerships, health system strengthening, and capacity building.",
     Image: "/AdminTeam/Advisor Sudarshan Dahal.jpg", // Placeholder URL
@@ -302,16 +292,16 @@ export const AdminMembers = [
     name: "Mr. D.B. Singh",
     post: "Advisor ",
     introduction:
-      "Mr. Dip Bahadur Singh completed his Diploma in General Medicine from All Nepal College of Medical Sciences in 2012. He has a Bachelor of Public Health from Asian College of Advanced Studies. He is currently pursuing a Master's in Health Informatics at Kathmandu University.",
+      "Mr. Dip Bahadur Singh completed his Diploma in General Medicine from All Nepal College of Medical Sciences in 2012. He has a Bachelor of Public Health from Asian College of Advanced Studies. He has completed Master's in Health Informatics from Kathmandu University.",
     photoUrl: "/AdminTeam/Advisor DB Singh.jpg", // Placeholder URL
-    Qualification: "(Health Informatics/ Digital Health) , Master in Health Informatics",
+    Qualification: "Health Informatics / Digital Health",
   },
   {
     id: 3,
     name: "Mr. Subash Dawadi",
     post: "Advisor",
     introduction:
-      "Mr. Subash Dawadi is pursuing a Master's in Health Informatics at Kathmandu University. He has a background in public health and health informatics, with experience in roles such as Health Assistant and District Program Officer.",
+      "Mr. Subash Dawadi has completed a Master's in Health Informatics at Kathmandu University. He has a background in public health and health informatics, with experience in roles such as Health Assistant and District Program Officer.",
     photoUrl: "/AdminTeam/Advisor Subash Dawadi.jpeg", // Placeholder URL
     Qualification: "Master in Health Informatics",
   },
